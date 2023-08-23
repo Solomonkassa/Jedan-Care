@@ -1,0 +1,28 @@
+JedanCare/
+|-- app/
+|   |-- __init__.py            # Application Initialization
+|   |-- config.py              # Configuration Settings
+|   |-- models.py              # Database Models
+|   |-- blueprints/
+|   |   |-- main/
+|   |   |   |-- __init__.py    # Main Blueprint Initialization
+|   |   |   |-- routes.py      # Main Routes and Views
+|   |   |   |-- templates/     # Main Blueprint Templates
+|   |   |   |   |-- index.html
+|   |   |   |-- static/        # Main Blueprint Static Files
+|   |   |-- auth/
+|   |   |   |-- __init__.py    # Auth Blueprint Initialization
+|   |   |   |-- routes.py      # Auth Routes and Views
+|   |   |   |-- templates/     # Auth Blueprint Templates
+|   |   |   |   |-- login.html
+|   |   |   |   |-- register.html
+|   |   |   |-- static/        # Auth Blueprint Static Files
+|   |   |-- admin/
+|   |       |-- __init__.py    # Admin Blueprint Initialization
+|   |       |-- routes.py      # Admin Routes and Views
+|   |       |-- templates/     # Admin Blueprint Templates
+|   |       |   |-- dashboard.html
+|   |       |-- static/        # Admin Blueprint Static Files
+|-- run.py                     # Application Execution Script
+|-- requirements.txt           # Required Packages
+|-- README.md                  # Project README (see below)
