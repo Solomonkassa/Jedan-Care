@@ -31,15 +31,42 @@ The project follows a modular structure using Flask blueprints:
 
 ## Installation and Setup
 
-1. Clone the repository: `git clone https://github.com/solomonkassa/JedanCare.git`
-2. Navigate to the project directory: `cd JedanCare`
-3. Create a virtual environment: `python3 -m venv venv`
-4. Activate the virtual environment: `source venv/bin/activate`
-5. Install required packages: `pip install -r requirements.txt`
-6. Initialize the database: `python run.py db init`
-7. Apply database migrations: `python run.py db migrate`
-8. Apply migrations to the database: `python run.py db upgrade`
-9. Run the application: `python run.py runserver`
+1. Clone the repository:
+   ```
+   git clone https://github.com/solomonkassa/JedanCare.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd JedanCare
+   ```
+3. Create a virtual environment:
+   ```
+   python3 -m venv venv
+   ```
+4. Activate the virtual environment:
+   ```
+   source venv/bin/activate
+   ```
+5. Install required packages:
+   ```
+   pip install -r requirements.txt
+   ```
+6. Initialize the database:
+   ```
+   python run.py db init
+   ```
+7. Apply database migrations:
+   ```
+   python run.py db migrate
+   ```
+8. Apply migrations to the database:
+   ```
+   python run.py db upgrade
+   ```
+9. Run the application:
+   ```
+    python run.py runserver
+   ```
 
 🔨 **Project Progress:**
 
