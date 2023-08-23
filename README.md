@@ -71,8 +71,8 @@ The project follows a modular structure using Flask blueprints:
 🔨 **Project Progress:**
 
 - [x] Setup Flask application structure.
-- [x] Implement user authentication and registration.
-- [x] Create appointment scheduling form.
+- [ ] Implement user authentication and registration.
+- [ ] Create appointment scheduling form.
 - [ ] Build admin dashboard for appointments and doctors.
 - [ ] Enhance security and validation features.
 - [ ] Deploy to production environment for real-world usage.
