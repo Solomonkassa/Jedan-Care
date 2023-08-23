@@ -1,6 +1,6 @@
-# JedanCare - Advanced Flask Application
+# JedanCare - Flask Web Application
 
-JedanCare is an advanced web application developed using Flask, a micro web framework in Python. The application offers features for managing medical appointments, user authentication, and an admin dashboard for administration.
+JedanCare is  web application developed using Flask, a micro web framework in Python. The application offers features for managing medical appointments, user authentication, and an admin dashboard for administration.
 
 ![Project Progress](https://img.shields.io/badge/Project%20Progress-25%25%20Complete-brightgreen)
 
