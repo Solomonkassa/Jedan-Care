@@ -2,7 +2,8 @@
 
 JedanCare is  web application developed using Flask, a micro web framework in Python. The application offers features for managing medical appointments, user authentication, and an admin dashboard for administration.
 
-![Project Completion](https://img.shields.io/badge/Project%20Completion-45%25%20Complete-brightgreen) ![Tests](https://github.com/solomonkassa/Jedan-Care/workflows/Tests/badge.svg)
+![Project Completion](https://img.shields.io/badge/Project%20Completion-45%25%20Complete-brightgreen) ![Tests](https://github.com/solomonkassa/Jedan-Care/workflows/Tests/badge.svg) ![Development](https://img.shields.io/badge/Development-In%20Progress-yellow)
+
 
 
 🏥 **Features:**
