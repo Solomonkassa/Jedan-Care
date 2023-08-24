@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Update Doctor</title>
+</head>
+<body>
+    <h1>Update Doctor</h1>
+    <form method="post">
+        <label for="name">Doctor Name:</label>
+        <input type="text" id="name" name="name" value="{{ doctor.name }}">
+        <input type="submit" value="Update">
+    </form>
+    <form method="post" action="{{ url_for('delete_doctor', doctor_id=doctor.id) }}">
+        <input type="submit" value="Delete">
+    </form>
+</body>
+</html>

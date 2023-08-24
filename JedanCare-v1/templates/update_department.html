@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Update Department</title>
+</head>
+<body>
+    <h1>Update Department</h1>
+    <form method="post">
+        <label for="name">Department Name:</label>
+        <input type="text" id="name" name="name" value="{{ department.name }}">
+        <input type="submit" value="Update">
+    </form>
+    <form method="post" action="{{ url_for('delete_department', department_id=department.id) }}">
+        <input type="submit" value="Delete">
+    </form>
+</body>
+</html>
