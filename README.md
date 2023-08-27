@@ -2,7 +2,8 @@
 
 JedanCare is  web application developed using Flask, a micro web framework in Python. The application offers features for managing medical appointments, user authentication, and an admin dashboard for administration.
 
-![Project Completion](https://img.shields.io/badge/Project%20Completion-35%25%20Complete-brightgreen) ![Tests](https://github.com/solomonkassa/Jedan-Care/workflows/Tests/badge.svg) ![Development](https://img.shields.io/badge/Development-In%20Progress-yellow)
+<p align="center">
+ <a href="https://github.com/Solomonkassa/Jedan-Care"><img alt="Github" src="https://img.shields.io/static/v1?logo=github&color=blueviolet&label=Test&message=Passing"/></a> <a href="LICENSE"><img alt="License" src="https://img.shields.io/static/v1?logo=GPL&color=Blue&message=GPL-v3&label=License"/></a> <a href="https://pypi.org/project/smartbetsAPI"><img alt="PyPi" src="https://img.shields.io/static/v1?logo=pypi&label=Pypi&message=v1.1.4&color=green"/></a> <a href="https://github.com/psf/black"><img alt="Black" src="https://img.shields.io/static/v1?logo=Black&label=Code-style&message=Black"/></a> <a href="#"><img alt="Accuracy" src="https://img.shields.io/static/v1?logo=accuracy&label=Accuracy&message=55%&color=critical"/></a> <a href="#"><img alt="Passing" src="https://img.shields.io/static/v1?logo=Docs&label=Docs&message=Passing&color=green"/></a> <a href="#"><img alt="coverage" src="https://img.shields.io/static/v1?logo=Coverage&label=Coverage&message=85%&color=yellowgreen"/></a>  <a href="#" alt="progress"><img alt="Progress" src="https://img.shields.io/static/v1?logo=Progress&label=Progress&message=35%&color=green"/></a>  <a href="https://pepy.tech/project/smartbetsapi"></a></p><br>
 
 
 
